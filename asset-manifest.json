@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Happay_Assignment/static/css/main.46ba7e09.chunk.css",
+    "main.js": "/Happay_Assignment/static/js/main.629568f9.chunk.js",
+    "main.js.map": "/Happay_Assignment/static/js/main.629568f9.chunk.js.map",
+    "runtime-main.js": "/Happay_Assignment/static/js/runtime-main.1ed081db.js",
+    "runtime-main.js.map": "/Happay_Assignment/static/js/runtime-main.1ed081db.js.map",
+    "static/js/2.647ed51e.chunk.js": "/Happay_Assignment/static/js/2.647ed51e.chunk.js",
+    "static/js/2.647ed51e.chunk.js.map": "/Happay_Assignment/static/js/2.647ed51e.chunk.js.map",
+    "index.html": "/Happay_Assignment/index.html",
+    "precache-manifest.84d99099e3afd16611a6df97da73cad3.js": "/Happay_Assignment/precache-manifest.84d99099e3afd16611a6df97da73cad3.js",
+    "service-worker.js": "/Happay_Assignment/service-worker.js",
+    "static/css/main.46ba7e09.chunk.css.map": "/Happay_Assignment/static/css/main.46ba7e09.chunk.css.map",
+    "static/js/2.647ed51e.chunk.js.LICENSE.txt": "/Happay_Assignment/static/js/2.647ed51e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed081db.js",
+    "static/js/2.647ed51e.chunk.js",
+    "static/css/main.46ba7e09.chunk.css",
+    "static/js/main.629568f9.chunk.js"
+  ]
+}
