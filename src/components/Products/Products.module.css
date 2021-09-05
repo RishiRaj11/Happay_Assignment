@@ -8,7 +8,7 @@
 }
 
 @media screen and (min-width: 600px) {
-  .wrapper {
+  .products {
     grid-template-columns: repeat(auto-fit, minmax(14rem, 16rem));
   }
 
